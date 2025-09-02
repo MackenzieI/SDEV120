@@ -1,0 +1,283 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="_gigPv-vwWBMMTNI6XV0">
+    <mxGraphModel dx="2412" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-2" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;string customerSurname&lt;/div&gt;&lt;div&gt;num numBathrooms&lt;/div&gt;&lt;div&gt;num numOtherRooms&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="229" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-3" target="-8cRq6L_b73LK-BpO3nG-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-3" value="Input customerSurname" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="469" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-8cRq6L_b73LK-BpO3nG-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="439" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-4" value="Output(&quot;Please Input your last name&quot;)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-105" y="380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-5" target="-8cRq6L_b73LK-BpO3nG-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-5" value="Ouput customerSurname" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="942.88" y="349" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-6" target="-8cRq6L_b73LK-BpO3nG-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-6" value="&lt;div&gt;totalCharge = serviceCharge + bathroomCharge + roomCharge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="581.88" y="604" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-7" target="-8cRq6L_b73LK-BpO3nG-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-7" value="Input numOtherRooms" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="839" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-8" target="-8cRq6L_b73LK-BpO3nG-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-8" value="Output(&quot;The number of bathrooms&amp;nbsp;&lt;div&gt;is &quot;,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;numBathrooms + &quot; and it will cost &quot;,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;bathroomCharge&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="882.88" y="689" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-8cRq6L_b73LK-BpO3nG-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.99999999999994" y="643" as="sourcePoint" />
+            <mxPoint x="50" y="663" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="663" />
+              <mxPoint x="54" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-9" value="Output(&quot;Please enter the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;number&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;of bathrooms to be cleaned&quot;)&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="559" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-10" value="Input numBathrooms" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="669" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="839" as="targetPoint" />
+            <mxPoint x="50" y="819" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-11" value="Output(&quot;Please enter the&amp;nbsp;&lt;div&gt;number of rooms to be cleaned,&amp;nbsp;&lt;/div&gt;&lt;div&gt;excluding bathrooms&quot;)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="760" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-2.5" y="1133" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-15" target="-8cRq6L_b73LK-BpO3nG-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-15" value="displayInfo()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="997.88" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-16" value="return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="997.88" y="949" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-17" target="-8cRq6L_b73LK-BpO3nG-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-17" value="Output(&quot;The number of other rooms&amp;nbsp;&lt;div&gt;is &quot;, numOtherRooms + &quot; and it will&amp;nbsp;&lt;/div&gt;&lt;div&gt;cost &quot;, &lt;span&gt;r&lt;span&gt;oomCharge&lt;/span&gt;&lt;/span&gt;)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="882.88" y="769" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-18" target="-8cRq6L_b73LK-BpO3nG-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-18" value="Output(&quot;The total cost, including&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;service charge will be &quot;, totalCharge)&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="875.38" y="859" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="47.5" y="1022.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-20" value="displayInfo()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-2.5" y="929" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="-8cRq6L_b73LK-BpO3nG-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="47.5" y="1102.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-21" value="Output(&quot;The program has finished.&amp;nbsp;&lt;div&gt;Please restart the program for&amp;nbsp;&lt;/div&gt;&lt;div&gt;another quote. Thank you.&quot;)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-102.5" y="1020" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-22" target="-8cRq6L_b73LK-BpO3nG-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="309" />
+              <mxPoint x="365" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-22" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;num totalBathroomCharge&lt;/div&gt;&lt;div&gt;num bathroomCharge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="229" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-24" target="-8cRq6L_b73LK-BpO3nG-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-24" value="calculateTotalCharge()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="598.13" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-25" value="calculateBathroomCharge()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="285" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="871" as="sourcePoint" />
+            <mxPoint x="375" y="871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-26" value="calculateRoom&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Charge()&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="295" y="801" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-27" value="return totalBathroomCharge" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="559" width="192.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-28" target="-8cRq6L_b73LK-BpO3nG-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-28" value="bathroomCharge = 15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="281.25" y="319" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-29" target="-8cRq6L_b73LK-BpO3nG-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-29" value="totalBathroomCharge = bathroomCharge * numBathrooms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="261.25" y="429" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-30" target="-8cRq6L_b73LK-BpO3nG-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-30" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;num roomCharge&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; num totalRoomCharge&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="880" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-31" value="return totalRoomCharge" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="278.75" y="1201" width="192.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-32" target="-8cRq6L_b73LK-BpO3nG-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-32" value="roomCharge = 10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="972" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-33" target="-8cRq6L_b73LK-BpO3nG-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-33" value="totalRoomCharge = roomCharge * numOtherRooms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1079" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-34" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;num serviceCharge&lt;/div&gt;&lt;div&gt;num bathroomCharge&lt;/div&gt;&lt;div&gt;num roomCharge&lt;/div&gt;&lt;div&gt;num totalCharge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="588.13" y="229" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-35" target="-8cRq6L_b73LK-BpO3nG-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-35" value="bathroomCharge = calculateBathroomCharge()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="566.88" y="349" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8cRq6L_b73LK-BpO3nG-36" target="ebijU5m2x64E9jShDjfe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-36" value="roomCharge = calculateRoomCharge()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="586.88" y="429" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-37" value="return totalCharge" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="618.76" y="704" width="126.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-38" target="-8cRq6L_b73LK-BpO3nG-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-38" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;num bathroomCharge&lt;/span&gt;&lt;/div&gt;&lt;div&gt;num roomCharge&lt;/div&gt;&lt;div&gt;num totalCharge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="957.88" y="229" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-39" target="-8cRq6L_b73LK-BpO3nG-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-39" value="bathroomCharge = calculateBathroomCharge()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="932.88" y="429" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-40" target="-8cRq6L_b73LK-BpO3nG-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-40" value="roomCharge = calculateRoomCharge()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="952.88" y="514" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8cRq6L_b73LK-BpO3nG-41" target="-8cRq6L_b73LK-BpO3nG-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-41" value="totalCharge = calculateTotalCharge()" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="952.88" y="599" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-8cRq6L_b73LK-BpO3nG-26" target="-8cRq6L_b73LK-BpO3nG-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="961" as="sourcePoint" />
+            <mxPoint x="370" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8cRq6L_b73LK-BpO3nG-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.484;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-8cRq6L_b73LK-BpO3nG-34" target="-8cRq6L_b73LK-BpO3nG-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="359" as="sourcePoint" />
+            <mxPoint x="660" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8cRq6L_b73LK-BpO3nG-25" target="-8cRq6L_b73LK-BpO3nG-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="154" as="sourcePoint" />
+            <mxPoint x="280" y="104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.477;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-8cRq6L_b73LK-BpO3nG-1" target="-8cRq6L_b73LK-BpO3nG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="184" as="sourcePoint" />
+            <mxPoint x="140" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-3" value="The main program asks the user for their name and how&amp;nbsp;&lt;div&gt;many bathrooms and rooms need to be cleaned. Then it&lt;/div&gt;&lt;div&gt;calls the module displayInfo() which tells the user the&amp;nbsp;&lt;/div&gt;&lt;div&gt;quote. Finally it tells the user the program&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is finished and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;thanks them.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-102.5" y="60" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-4" value="calculateBathroomCharge() declares the variables&lt;div&gt;totalBathroomCharge and bathroomCharge,&amp;nbsp;&lt;/div&gt;&lt;div&gt;initializes bathroomCharge with 15, then&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;uses the&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;number of bathrooms given in the main&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;program to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;find the total cost of cleaning the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bathrooms.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="51" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-6" value="calculateRoomCharge() declares the variables&lt;div&gt;roomCharge and totalRoomCharge, initializes&amp;nbsp;&lt;/div&gt;&lt;div&gt;roomCharge with 10, then&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;uses the number of&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;non-bathroom rooms given in the main&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;program&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to find the total cost of cleaning other&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rooms&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="712" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-8" value="calculateTotalCharge() declares the variables&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;serviceCharge,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bathroomCharge, roomCharge, and totalCharge. It calls&lt;/span&gt;&lt;/div&gt;&lt;div&gt;calculateBathroomCharge() and calculateRoomCharge() to&lt;/div&gt;&lt;div&gt;initialize bathroomCharge and roomCharge respectively.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Then it initializes serviceCharge as 40 and adds&amp;nbsp;&lt;/div&gt;&lt;div&gt;serviceCharge, bathroomCharge, and roomCharge to find&lt;/div&gt;&lt;div&gt;totalCharge and returns it.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="531.88" y="30" width="50" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ebijU5m2x64E9jShDjfe-9" target="-8cRq6L_b73LK-BpO3nG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-9" value="serviceCharge = 40" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="617.82" y="514" width="128.12" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ebijU5m2x64E9jShDjfe-13" value="displayInfo() displays the ending info for the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;customer. It declares&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the variables&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bathroomCharge, roomCharge, and totalCharge.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Then it outputs the customer&#39;s last name, calls&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;calculateBathroomCharge(),&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;calculateRoomCharge(),&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;calculateTotalCharge() to initialize&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;each respective&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;variable. It&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;then outputs the information for the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cost of bathroom cleaning,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the other rooms, and the total cost.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="30" width="50" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
