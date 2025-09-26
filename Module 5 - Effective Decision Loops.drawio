@@ -1,0 +1,211 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="uA5d40jNkkrhPDAGqA8y">
+    <mxGraphModel dx="1780" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CxKVV0DroNMLpddv5X1t-1" target="CxKVV0DroNMLpddv5X1t-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxKVV0DroNMLpddv5X1t-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-76" y="-66" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxKVV0DroNMLpddv5X1t-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-76" y="574" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CxKVV0DroNMLpddv5X1t-3" target="CxKVV0DroNMLpddv5X1t-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxKVV0DroNMLpddv5X1t-3" value="Output &quot;This program&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;takes multiple&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;numbers from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;then adds them up.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-145.5" y="131" width="239.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CxKVV0DroNMLpddv5X1t-4" target="CxKVV0DroNMLpddv5X1t-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxKVV0DroNMLpddv5X1t-4" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;num numArray[]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;num QUIT = 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;num enteredNumber&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;num count = 0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-106" y="24" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CxKVV0DroNMLpddv5X1t-6" target="z8YVblI_OTNRKZkRPKeu-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxKVV0DroNMLpddv5X1t-6" value="Input &amp;lt;&amp;gt; QUIT" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-76" y="248" width="100" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-2" target="CxKVV0DroNMLpddv5X1t-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-2" value="calculateSum(num x[])" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-111" y="428" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-4" value="Yes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-6" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-5" value="Output &quot;Enter a&amp;nbsp;&lt;div&gt;number. Type 0 to stop&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="69" y="314" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="214" as="sourcePoint" />
+            <mxPoint x="-26" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="600" as="sourcePoint" />
+            <mxPoint x="284" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-23" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;No&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-96" y="318" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-25" target="z8YVblI_OTNRKZkRPKeu-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-25" value="calculateSum (num x[])" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="376.5" y="-66" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-26" target="z8YVblI_OTNRKZkRPKeu-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-26" value="Declarations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;num range = length(x)&lt;/span&gt;&lt;div&gt;num sum&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="369" y="23" width="155" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-28" target="z8YVblI_OTNRKZkRPKeu-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-28" target="z8YVblI_OTNRKZkRPKeu-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-28" value="for count = 0&amp;nbsp;&lt;div&gt;to range&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="391.5" y="120" width="110" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-29" value="sum = sum + x(count)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="534" y="140" width="100" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="674" y="94" as="sourcePoint" />
+            <mxPoint x="444" y="94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="z8YVblI_OTNRKZkRPKeu-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="194" as="sourcePoint" />
+            <mxPoint x="584" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="674" y="94" as="sourcePoint" />
+            <mxPoint x="674" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584" y="225" as="sourcePoint" />
+            <mxPoint x="674" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-37" target="z8YVblI_OTNRKZkRPKeu-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-37" value="Output &quot;your sum is &quot;, sum&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360.25" y="247" width="172.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-39" value="Return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="396.5" y="348" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-44" value="User keeps entering a number&amp;nbsp;&lt;div&gt;until they press 0.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;When they&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;press 0, the sum of all the&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;numbers is calculated and then&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;displayed to the user.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="-76" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z8YVblI_OTNRKZkRPKeu-44" target="CxKVV0DroNMLpddv5X1t-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24" y="34" as="sourcePoint" />
+            <mxPoint x="74" y="-16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-46" value="While loop. It checks&amp;nbsp;&lt;div&gt;after each input if 0&amp;nbsp;&lt;/div&gt;&lt;div&gt;was pressed.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-186" y="234" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z8YVblI_OTNRKZkRPKeu-46" target="CxKVV0DroNMLpddv5X1t-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="304" as="sourcePoint" />
+            <mxPoint x="114" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="31" y="285" as="sourcePoint" />
+            <mxPoint x="170.5" y="314.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-52" value="Append the number entered&lt;div&gt;to the end of numArray&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="304" y="463" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="z8YVblI_OTNRKZkRPKeu-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="196.5" y="501" as="sourcePoint" />
+            <mxPoint x="114" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-56" value="Take an integer array and&amp;nbsp;&lt;div&gt;add up all the numbers in&amp;nbsp;&lt;/div&gt;&lt;div&gt;the array.&amp;nbsp;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="544" y="-66" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z8YVblI_OTNRKZkRPKeu-56" target="z8YVblI_OTNRKZkRPKeu-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="84" as="sourcePoint" />
+            <mxPoint x="434" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-58" value="For loop iterates through&amp;nbsp;&lt;div&gt;the array and adds that&amp;nbsp;&lt;/div&gt;&lt;div&gt;number to the sum.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="274" y="104" width="50" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z8YVblI_OTNRKZkRPKeu-58" target="z8YVblI_OTNRKZkRPKeu-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="144" as="sourcePoint" />
+            <mxPoint x="434" y="94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s61iNVsrbHkgQk3EHf4p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8YVblI_OTNRKZkRPKeu-60" target="s61iNVsrbHkgQk3EHf4p-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8YVblI_OTNRKZkRPKeu-60" value="Output &quot;Enter a&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;number.&amp;nbsp;&lt;/span&gt;&lt;div&gt;Type &quot;, QUIT, &quot;&amp;nbsp;to stop.&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="64" y="314" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf4FJkKPqw2SgoINP2aq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s61iNVsrbHkgQk3EHf4p-2" target="Xf4FJkKPqw2SgoINP2aq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s61iNVsrbHkgQk3EHf4p-2" value="numArray(count) = enteredNumber" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="114.25" y="463" width="110.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s61iNVsrbHkgQk3EHf4p-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s61iNVsrbHkgQk3EHf4p-3" target="s61iNVsrbHkgQk3EHf4p-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s61iNVsrbHkgQk3EHf4p-3" value="Input enteredNumber" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="79" y="400" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s61iNVsrbHkgQk3EHf4p-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="285.00000000000006" as="sourcePoint" />
+            <mxPoint x="31" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xf4FJkKPqw2SgoINP2aq-1" value="count = count + 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="114.75" y="538" width="110" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf4FJkKPqw2SgoINP2aq-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xf4FJkKPqw2SgoINP2aq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="530" as="sourcePoint" />
+            <mxPoint x="170" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xf4FJkKPqw2SgoINP2aq-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="sourcePoint" />
+            <mxPoint x="284" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
